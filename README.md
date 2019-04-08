@@ -4,8 +4,8 @@ This tool was intended to help developers to switch between one environment to a
 Which can be helpful if yo have multiple environments (development, testing, production, etc.) and environment specific files (i.e. deployment configurations) and you have to switch environments very often.
 
 ## Usage
+Following command will replace existing environmental files by preserved files according to environment that you need switch to.
 ```bash
-#following command will replace existing environmental files by preserved files according to environment that you need switch to.
 ./environment_switcher.sh production
 
 #i.e. ./install.sh will be replaced with ./install.sh.production file.
