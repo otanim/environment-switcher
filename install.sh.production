@@ -1,0 +1,2 @@
+pm2 stop all
+pm2 start "export NODE_ENV=production && npm start"

@@ -1,0 +1,15 @@
+{
+  "name": "environment-switcher",
+  "version": "1.0.0",
+  "description": "Environment switcher boilerplate",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://github.com/otanim/environment-switcher"
+  },
+  "author": "otanim",
+  "license": "GPL-3.0-or-later",
+  "homepage": "https://github.com/otanim/environment-switcher#readme"
+}
